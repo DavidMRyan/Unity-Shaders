@@ -20,5 +20,5 @@ A collection of shaders I've written & worked on over the last year.
 ![](https://i.imgur.com/cKVoSCZ.png)
 
 ### ScreenFX
-- A collection of after-effects inspired visual effects to be used for animating in screen-space! (Partially VR compatible on platforms something like VRChat or ChilloutVR)
+- A collection of after-effects inspired visual effects to be used for animating in screen-space! (Partially VR compatible on platforms like VRChat or ChilloutVR)
 ![](https://i.imgur.com/tq5eCYM.png)
